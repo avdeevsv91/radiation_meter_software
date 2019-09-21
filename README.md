@@ -55,6 +55,8 @@ Radiation Meter Software
     XML выражение (радиация): //response/archive/date[position() = last()]/@value  
     Ед.изм.: мкР/ч  
 
+    --------------------------------------------
+
     г.Москва (Народный Мониторинг)
     
     URL (GET): http://narodmon.ru/api/sensorsValues?sensors=8286&uuid=UUID&api_key=API_KEY  
