@@ -1,5 +1,4 @@
-# radiation_meter_software
-Radiation Meter Software
+# Radiation Meter Software
 
 Приложение, созданное в рамках проекта [ESP Radiation Meter](https://github.com/avdeevsv91/esp_radiation_meter). Основная функция - уведомление пользователя при привышении заданных границ радиационного фона.
 
