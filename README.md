@@ -49,11 +49,20 @@ Radiation Meter Software
 
 ***Ед.изм.*** - единица измерения показаний радиационного фона.
 
-    г.Воронеж (по данным Росатома)
+    г.Воронеж (Росатом)
     
     URL (GET): http://www.russianatom.ru/data_source/get_indications_by_id.php?id=34&terr_id=9&order=24  
     XML выражение (радиация): //response/archive/date[position() = last()]/@value  
     Ед.изм.: мкР/ч  
+
+    г.Москва (Народный Мониторинг)
+    
+    URL (GET): http://narodmon.ru/api/sensorsValues?sensors=8286&uuid=UUID&api_key=API_KEY  
+    JSON выражение (радиация): //sensors[1]//value  
+    Ед.изм.: мкР/ч  
+	
+	Для генерации UUID воспользуйтесь сервисом http://md5.my-addr.com/online_random_md5_hash_generator-and-md5_random_hash.php  
+	Ключ API для разработчика можно получить в разделе Мои Приложения http://narodmon.ru/#myapps  
 
 ### Автозагрузка
 
