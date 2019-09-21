@@ -1,0 +1,17 @@
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\bin\Release\RadiationMeter.exe.config
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\bin\Release\RadiationMeter.exe
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\bin\Release\RadiationMeter.pdb
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\bin\Release\en\RadiationMeter.resources.dll
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\bin\Release\ru\RadiationMeter.resources.dll
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\RadiationMeter.AboutBox.resources
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\RadiationMeter.MainForm.resources
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\RadiationMeter.Properties.Resources.resources
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\RadiationMeter.SettingsForm.resources
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\RadiationMeter.Languages.Translate.en.resources
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\RadiationMeter.Languages.Translate.ru.resources
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\RadiationMeter.csproj.GenerateResource.cache
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\RadiationMeter.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\en\RadiationMeter.resources.dll
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\ru\RadiationMeter.resources.dll
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\RadiationMeter.exe
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\RadiationMeter.pdb
