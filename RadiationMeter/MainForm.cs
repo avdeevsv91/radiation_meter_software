@@ -76,8 +76,6 @@ namespace RadiationMeter
             string accuracy_line = "100%";
             try
             {
-                // GET: http://www.russianatom.ru/data_source/get_indications_by_id.php?id=34&terr_id=9&order=24
-                // XML: //response/archive/date[position() = last()]/@value
                 HttpWebRequest request = (HttpWebRequest)WebRequest.Create(Properties.Settings.Default.http_url);
                 request.UserAgent = Properties.Settings.Default.http_useragent;
                 if (Properties.Settings.Default.http_method == 0)

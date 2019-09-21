@@ -49,6 +49,12 @@ Radiation Meter Software
 
 ***Ед.изм.*** - единица измерения показаний радиационного фона.
 
+    г.Воронеж (по данным Росатома)
+    
+    URL (GET): http://www.russianatom.ru/data_source/get_indications_by_id.php?id=34&terr_id=9&order=24  
+    XML выражение (радиация): //response/archive/date[position() = last()]/@value  
+    Ед.изм.: мкР/ч  
+
 ### Автозагрузка
 
 ***Запускать вместе с Windows*** - добавить программу в автозагрузку операционной системы;
