@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ Radiation Meter Software
+ Author: Sergey Avdeev
+ E-Mail: avdeevsv91@gmail.com
+ URL: https://github.com/avdeevsv91/radiation_meter_software
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;

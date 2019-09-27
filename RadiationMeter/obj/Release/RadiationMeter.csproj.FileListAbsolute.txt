@@ -15,3 +15,4 @@ D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Relea
 D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\ru\RadiationMeter.resources.dll
 D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\RadiationMeter.exe
 D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\RadiationMeter.pdb
+D:\YandexDisk\Documents\GitHub\radiation_meter_software\RadiationMeter\obj\Release\RadiationMeter.csprojAssemblyReference.cache

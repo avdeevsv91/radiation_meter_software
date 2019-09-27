@@ -1,4 +1,11 @@
-﻿using Microsoft.Win32;
+﻿/*
+ Radiation Meter Software
+ Author: Sergey Avdeev
+ E-Mail: avdeevsv91@gmail.com
+ URL: https://github.com/avdeevsv91/radiation_meter_software
+*/
+
+using Microsoft.Win32;
 using System;
 using System.Globalization;
 using System.IO.Ports;

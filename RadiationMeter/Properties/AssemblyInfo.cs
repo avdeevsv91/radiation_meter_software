@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Radiation Meter Software")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("https://github.com/thesoultaker48")]
+[assembly: AssemblyCompany("https://github.com/avdeevsv91/radiation_meter_software")]
 [assembly: AssemblyProduct("Radiation Meter")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
