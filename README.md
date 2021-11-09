@@ -1,8 +1,8 @@
 # Radiation Meter Software
 
-Приложение, созданное в рамках проекта [ESP Radiation Meter](https://github.com/avdeevsv91/esp_radiation_meter). Основная функция - уведомление пользователя при привышении заданных границ радиационного фона.
+Приложение, созданное в рамках проекта [ESP Radiation Meter](https://github.com/kasitoru/esp_radiation_meter). Основная функция - уведомление пользователя при привышении заданных границ радиационного фона.
 
-[СКАЧАТЬ](https://github.com/avdeevsv91/radiation_meter_software/raw/master/RadiationMeter/bin/Release/RadiationMeterSoftware.zip) (Windows)
+[СКАЧАТЬ](https://github.com/kasitoru/radiation_meter_software/raw/master/RadiationMeter/bin/Release/RadiationMeterSoftware.zip) (Windows)
 
 ## Настройки
 

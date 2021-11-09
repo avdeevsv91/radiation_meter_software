@@ -2,7 +2,7 @@
  Radiation Meter Software
  Author: Sergey Avdeev
  E-Mail: avdeevsv91@gmail.com
- URL: https://github.com/avdeevsv91/radiation_meter_software
+ URL: https://github.com/kasitoru/radiation_meter_software
 */
 
 using Microsoft.Win32;
